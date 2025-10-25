@@ -15,4 +15,4 @@ Welcome to the organization page for Bruin Underwater Robotics (or BUR for short
 
 ### Other Repositories
 - [bruin-underwater-robotics/bruin-underwater-robotics.github.io](https://github.com/bruin-underwater-robotics/bruin-underwater-robotics.github.io): Our website!
-- [ASME-BUR/2024-2025](https://github.com/ASME-BUR/2024-2025): Our code for the 2024-2025 season
+- [ASME-BUR/bur-wiki](https://github.com/ASME-BUR/bur-wiki/wiki): Our wiki! (WIP)
